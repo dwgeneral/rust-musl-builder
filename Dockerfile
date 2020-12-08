@@ -46,7 +46,6 @@ RUN apt-get update && \
         musl-dev \
         musl-tools \
         libpq-dev \
-        libsqlite-dev \
         libsqlite3-dev \
         libssl-dev \
         linux-libc-dev \
